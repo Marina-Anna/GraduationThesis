@@ -11,7 +11,7 @@ Note: This repository contains only the main part of the thesis (multivariable r
   This repository includes the following contents:
   * README.md  
     This file
-  * Research method  
+  * ResearchMethod  
     Explain about research method (only the main analysis)
   * Data  
     CSV file (cleaned)
